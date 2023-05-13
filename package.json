@@ -1,0 +1,14 @@
+{
+  "name": "pagina-proyecto",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "maicol robles juan david duran",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
